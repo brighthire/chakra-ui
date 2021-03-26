@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.5.0
+
+### Minor Changes
+
+- [`a58b724e9`](https://github.com/chakra-ui/chakra-ui/commit/a58b724e9c8656044f866b658f378662f2a44b46)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Add `withFlushSync`
+  function wrapper to help resolve concurrent mode and onFocus state issues.
+
+  > This is a temp fix until the issue is fixed in React.
+
 ## 1.4.0
 
 ### Minor Changes

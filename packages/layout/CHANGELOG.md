@@ -1,5 +1,22 @@
 # Change Log
 
+## 1.3.4
+
+### Patch Changes
+
+- [`1d85e4729`](https://github.com/chakra-ui/chakra-ui/commit/1d85e472918346f1eb4ba7aed5291b9e7254e1f8)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Fix: remove
+  redundant `role` attribute from divider
+
+* [`c71cb7b08`](https://github.com/chakra-ui/chakra-ui/commit/c71cb7b088a1d4c2a27a8c2d58d8573d9c2224c7)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Fix issue where
+  AbsoluteCenter doesn't have `position: absolute`
+
+* Updated dependencies
+  [[`a58b724e9`](https://github.com/chakra-ui/chakra-ui/commit/a58b724e9c8656044f866b658f378662f2a44b46)]:
+  - @chakra-ui/utils@1.5.0
+  - @chakra-ui/icon@1.1.4
+
 ## 1.3.3
 
 ### Patch Changes

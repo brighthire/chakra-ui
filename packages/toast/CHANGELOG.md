@@ -1,5 +1,24 @@
 # Change Log
 
+## 1.2.1
+
+### Patch Changes
+
+- [`bb5b004ef`](https://github.com/chakra-ui/chakra-ui/commit/bb5b004ef2498d6641e38713868c3e5ed1d8789f)
+  [#3650](https://github.com/chakra-ui/chakra-ui/pull/3650) Thanks
+  [@gmathieu](https://github.com/gmathieu)! - Bump `@reach/alert` to fix yarn
+  pnp issue
+
+- Updated dependencies
+  [[`623e782e8`](https://github.com/chakra-ui/chakra-ui/commit/623e782e80124297740a109e5c6c58cddc35b2eb),
+  [`a58b724e9`](https://github.com/chakra-ui/chakra-ui/commit/a58b724e9c8656044f866b658f378662f2a44b46)]:
+  - @chakra-ui/hooks@1.2.1
+  - @chakra-ui/utils@1.5.0
+  - @chakra-ui/transition@1.1.1
+  - @chakra-ui/alert@1.1.4
+  - @chakra-ui/close-button@1.1.4
+  - @chakra-ui/theme@1.7.2
+
 ## 1.2.0
 
 ### Minor Changes

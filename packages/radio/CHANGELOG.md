@@ -1,5 +1,18 @@
 # Change Log
 
+## 1.2.6
+
+### Patch Changes
+
+- Updated dependencies
+  [[`623e782e8`](https://github.com/chakra-ui/chakra-ui/commit/623e782e80124297740a109e5c6c58cddc35b2eb),
+  [`a58b724e9`](https://github.com/chakra-ui/chakra-ui/commit/a58b724e9c8656044f866b658f378662f2a44b46),
+  [`3cc77ce60`](https://github.com/chakra-ui/chakra-ui/commit/3cc77ce60681650436f764e28b4b2234c5ca6408)]:
+  - @chakra-ui/hooks@1.2.1
+  - @chakra-ui/utils@1.5.0
+  - @chakra-ui/form-control@1.2.4
+  - @chakra-ui/visually-hidden@1.0.7
+
 ## 1.2.5
 
 ### Patch Changes

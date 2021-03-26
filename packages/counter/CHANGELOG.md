@@ -1,5 +1,20 @@
 # Change Log
 
+## 1.0.10
+
+### Patch Changes
+
+- [`428593906`](https://github.com/chakra-ui/chakra-ui/commit/428593906ca3f3423a2e1bc25241169d1bf4de81)
+  [#3664](https://github.com/chakra-ui/chakra-ui/pull/3664) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - Fix issue where onChange
+  is called when value did not change
+
+- Updated dependencies
+  [[`623e782e8`](https://github.com/chakra-ui/chakra-ui/commit/623e782e80124297740a109e5c6c58cddc35b2eb),
+  [`a58b724e9`](https://github.com/chakra-ui/chakra-ui/commit/a58b724e9c8656044f866b658f378662f2a44b46)]:
+  - @chakra-ui/hooks@1.2.1
+  - @chakra-ui/utils@1.5.0
+
 ## 1.0.9
 
 ### Patch Changes

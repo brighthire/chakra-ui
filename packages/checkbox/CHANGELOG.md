@@ -1,5 +1,26 @@
 # Change Log
 
+## 1.4.0
+
+### Minor Changes
+
+- [`69ae9f68e`](https://github.com/chakra-ui/chakra-ui/commit/69ae9f68e6f56e9b21660590b7a307f16b5695e8)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - - Add
+  `getRootProps` to usecheckbox hook to manage props passed to checkbox
+  container.
+
+  - Forward `onFocus` and `onBlur` props to the input element for better
+    integration with form libraries.
+
+### Patch Changes
+
+- Updated dependencies
+  [[`623e782e8`](https://github.com/chakra-ui/chakra-ui/commit/623e782e80124297740a109e5c6c58cddc35b2eb),
+  [`a58b724e9`](https://github.com/chakra-ui/chakra-ui/commit/a58b724e9c8656044f866b658f378662f2a44b46)]:
+  - @chakra-ui/hooks@1.2.1
+  - @chakra-ui/utils@1.5.0
+  - @chakra-ui/visually-hidden@1.0.7
+
 ## 1.3.0
 
 ### Minor Changes

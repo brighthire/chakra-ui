@@ -1,5 +1,17 @@
 # Change Log
 
+## 1.2.1
+
+### Patch Changes
+
+- [`623e782e8`](https://github.com/chakra-ui/chakra-ui/commit/623e782e80124297740a109e5c6c58cddc35b2eb)
+  [#3408](https://github.com/chakra-ui/chakra-ui/pull/3408) Thanks
+  [@dodas](https://github.com/dodas)! - `useControllableState`: The `onChange`
+  callback will be called only if the new value isn't equal to the current one.
+- Updated dependencies
+  [[`a58b724e9`](https://github.com/chakra-ui/chakra-ui/commit/a58b724e9c8656044f866b658f378662f2a44b46)]:
+  - @chakra-ui/utils@1.5.0
+
 ## 1.2.0
 
 ### Minor Changes
